@@ -58,10 +58,20 @@
 
 **법률자문이 아닙니다.** 실제 제정 시에는 기관 법무부서 또는 외부 변호사의 검토를 거치시기 바랍니다.
 
+## 규정안 한글 문서
+
+제정안 전문을 HWPX로 만들어 두었습니다. 21개 조와 부칙, **별지 서식 3종**(법률지원 신청서·비용지원 신청서·서약서), 조문별 출처표가 들어 있습니다.
+
+📥 **[창업진흥원_임직원_법률지원_규정안.hwpx](doc/%EC%B0%BD%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90_%EC%9E%84%EC%A7%81%EC%9B%90_%EB%B2%95%EB%A5%A0%EC%A7%80%EC%9B%90_%EA%B7%9C%EC%A0%95%EC%95%88.hwpx)** (122KB) · [Markdown 원본](doc/%EC%B0%BD%EC%97%85%EC%A7%84%ED%9D%A5%EC%9B%90_%EC%9E%84%EC%A7%81%EC%9B%90_%EB%B2%95%EB%A5%A0%EC%A7%80%EC%9B%90_%EA%B7%9C%EC%A0%95%EC%95%88.md)
+
+한컴오피스 없이 [kordoc](https://www.npmjs.com/package/kordoc)으로 생성했으며 구조 검증(`validate`)을 통과했습니다. 조문 번호(제1조 / ① / 1. / 가.)가 원문 그대로 유지됩니다.
+
 ## 파일
 
 ```
 index.html                          탭 통합본 (전체)
+doc/…규정안.hwpx                     창업진흥원 규정 제정안 (한글 문서)
+doc/…규정안.md                       그 Markdown 원본
 parts/1-institutions.html           제도 지형과 해부
 parts/2-funding-and-bargaining.html 재원·적법성·단협·중기부 전수
 parts/3-grounds-and-proposal.html   요구 근거와 창업진흥원 규정안
